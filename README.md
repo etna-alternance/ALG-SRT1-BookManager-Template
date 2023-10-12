@@ -1,11 +1,11 @@
-# BookSorter
+# ALG-SRT1/BookSorter
 
 BookSorter is a Python program that visualizes different sorting algorithms using a stacked bar chart representation, making the bars resemble stacked books. It provides a visual demonstration of how the sorting algorithms work and how they rearrange the elements in an array.
 
 ## Installation
 
 1. Clone the repository:
-```https://github.com/Elie-Renneson/BookManager-Template```
+```git@github.com:etna-alternance/ALG-SRT1-BookManager-Template.git```
 
 2. Navigate to the `booksorter` directory:
 ```cd booksorter```
